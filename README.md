@@ -5,5 +5,5 @@
   👯 I’m looking to collaborate on new proyects that increase my logic development  
   💬 Ask me about Java, or some tech that u want, i'll try it  
   📫 albertortor2000@gmail.com  
-  ⚡ let's have fun coding!  
+  ⚡ Let's have fun coding!  
 
